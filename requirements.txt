@@ -1,0 +1,6 @@
+selenium
+gspread
+oauth2client
+aiogram
+python-dotenv
+webdriver-manager
